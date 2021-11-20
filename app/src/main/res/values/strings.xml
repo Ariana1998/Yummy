@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Yummy</string>
+    <string name="nombre">Nombre Completo</string>
+    <string name="prompt_nombre">Nombre Completo</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Contraseña</string>
+    <string name="action_sign_in">Iniciar Sesion</string>
+    <string name="action_registro">Registrarse</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="bienvenida">Bievenido a Yummy!!</string>
+    <string name="registro">Registrate en Yummy!!</string>
+    <string name="email">Email</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="loginanuncio">O inicia sesion con una red social</string>
+    <string name="iniciasesion">Inicia Sesion</string>
+    <string name="registrate">Registrate</string>
+    <string name="terminosycondiciones">Acepto los Terminos de Servicio y Politicas de Privacidad</string>
+    <string name="cuenta">Tienes una cuenta? Inicia Sesion</string>
+    <string name="title_activity_menuprincipal">activity_menuprincipal</string>
+    <string name="titulo_menu">Menu</string>
+    <string name="titulo_carrito">Carrito</string>
+    <string name="titulo_configuracion">Configuracion</string>
+    <string name="titulo_cuenta">Mi cuenta</string>
+    <string name="platillos">Platillos</string>
+    <string name="idioma">Idioma: Espanol</string>
+    <string name="version">Version 1.0</string>
+    <string name="terminosdeservicio">Terminos de Servicio</string>
+    <string name="politicasprivacidad">Politicas de Privacidad</string>
+    <string name="metodospago">Metodos de Pago</string>
+    <string name="direcciones">Direcciones</string>
+    <string name="pedidos">Pedidos</string>
+    <string name="serviciocliente">Servicio al Cliente</string>
+    <string name="cerrarsesion">Cerrar Sesion</string>
+</resources>

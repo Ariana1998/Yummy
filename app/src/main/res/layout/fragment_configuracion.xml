@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="16dp"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingTop="16dp"
+    tools:context=".ui.configuracion.NotificationsFragment">
+
+    <TextView
+        android:id="@+id/tv_configuracion"
+        android:text="@string/titulo_configuracion"
+        android:textAlignment="center"
+        android:textSize="30sp"
+        android:textColor="@color/black"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="serif"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:id="@+id/tv_idioma"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:text="@string/idioma"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:fontFamily="serif"
+        app:layout_constraintTop_toBottomOf="@+id/tv_configuracion"
+        />
+
+    <TextView
+        android:id="@+id/tv_version"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:text="@string/version"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:fontFamily="serif"
+        app:layout_constraintTop_toBottomOf="@+id/tv_idioma"
+        />
+
+    <TextView
+        android:id="@+id/tv_terminosservicio"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:text="@string/terminosdeservicio"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:fontFamily="serif"
+        app:layout_constraintTop_toBottomOf="@+id/tv_version"
+        />
+
+    <TextView
+        android:id="@+id/tv_politicaprivacidad"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:text="@string/politicasprivacidad"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:fontFamily="serif"
+        app:layout_constraintTop_toBottomOf="@+id/tv_terminosservicio"
+        />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
