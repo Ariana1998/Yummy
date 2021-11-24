@@ -10,6 +10,18 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Yummy">
         <activity
+            android:name=".activity_servicioalcliente"
+            android:exported="true" />
+        <activity
+            android:name=".activity_pedidos"
+            android:exported="true" />
+        <activity
+            android:name=".activity_direcciones"
+            android:exported="true" />
+        <activity
+            android:name=".activity_metodospago"
+            android:exported="true" />
+        <activity
             android:name=".activity_menuprincipal"
             android:exported="true"
             android:label="@string/title_activity_menuprincipal" />

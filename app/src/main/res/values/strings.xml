@@ -31,4 +31,16 @@
     <string name="pedidos">Pedidos</string>
     <string name="serviciocliente">Servicio al Cliente</string>
     <string name="cerrarsesion">Cerrar Sesion</string>
+    <string name="atencioncliente">Atencion al cliente</string>
+    <string name="asunto">Asunto del problema: </string>
+    <string name="motivo">Expliquenos el motivo de su problema:</string>
+    <string name="enviar">Enviar Reporte</string>
+    <string name="direccion">Direccion</string>
+    <string name="calle">Calle</string>
+    <string name="numero">Numero</string>
+    <string name="colonia">Colonia</string>
+    <string name="codigopostal">Codigo Postal</string>
+    <string name="guardar">Guardar</string>
+    <string name="efectivo">Efectivo</string>
+    <string name="tarjetacredito">Tarjeta de credito</string>
 </resources>

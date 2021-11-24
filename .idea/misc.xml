@@ -3,9 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/AGES0/AndroidStudioProjects/Yummy/app/src/main/res/layout/activity_direcciones.xml" value="0.1796875" />
         <entry key="..\:/Users/AGES0/AndroidStudioProjects/Yummy/app/src/main/res/layout/activity_main.xml" value="0.1796875" />
         <entry key="..\:/Users/AGES0/AndroidStudioProjects/Yummy/app/src/main/res/layout/activity_menuprincipal.xml" value="0.22" />
+        <entry key="..\:/Users/AGES0/AndroidStudioProjects/Yummy/app/src/main/res/layout/activity_metodospago.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/AGES0/AndroidStudioProjects/Yummy/app/src/main/res/layout/activity_pedidos.xml" value="0.1796875" />
         <entry key="..\:/Users/AGES0/AndroidStudioProjects/Yummy/app/src/main/res/layout/activity_registro.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/AGES0/AndroidStudioProjects/Yummy/app/src/main/res/layout/activity_servicioalcliente.xml" value="0.1796875" />
         <entry key="..\:/Users/AGES0/AndroidStudioProjects/Yummy/app/src/main/res/layout/fragment_carrito.xml" value="0.1796875" />
         <entry key="..\:/Users/AGES0/AndroidStudioProjects/Yummy/app/src/main/res/layout/fragment_configuracion.xml" value="0.5" />
         <entry key="..\:/Users/AGES0/AndroidStudioProjects/Yummy/app/src/main/res/layout/fragment_cuenta.xml" value="0.3333333333333333" />
