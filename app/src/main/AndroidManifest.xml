@@ -10,23 +10,23 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Yummy">
         <activity
-            android:name=".activity_servicioalcliente"
+            android:name=".ServicioAlClienteActivity"
             android:exported="true" />
         <activity
-            android:name=".activity_pedidos"
+            android:name=".PedidosActivity"
             android:exported="true" />
         <activity
-            android:name=".activity_direcciones"
+            android:name=".DireccionesActivity"
             android:exported="true" />
         <activity
-            android:name=".activity_metodospago"
+            android:name=".MetodosPagoActivity"
             android:exported="true" />
         <activity
-            android:name=".activity_menuprincipal"
+            android:name=".MenuPrincipalActivity"
             android:exported="true"
             android:label="@string/title_activity_menuprincipal" />
         <activity
-            android:name=".activity_registro"
+            android:name=".RegistroActivity"
             android:exported="true" />
         <activity
             android:name=".MainActivity"

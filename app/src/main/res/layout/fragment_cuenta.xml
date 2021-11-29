@@ -9,6 +9,8 @@
     android:paddingRight="16dp"
     android:paddingTop="16dp">
 
+    //imagen de perfil
+
     <TextView
         android:id="@+id/tv_metodospago"
         android:layout_width="match_parent"

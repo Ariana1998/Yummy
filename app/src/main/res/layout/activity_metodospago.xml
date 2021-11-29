@@ -8,7 +8,7 @@
     android:paddingLeft="16dp"
     android:paddingRight="16dp"
     android:paddingTop="16dp"
-    tools:context=".activity_metodospago">
+    tools:context=".MetodosPagoActivity">
 
     <TextView
         android:id="@+id/tv_metodopago"
@@ -51,5 +51,36 @@
         android:fontFamily="serif"
         android:layout_marginTop="20dp"
         app:layout_constraintTop_toBottomOf="@+id/opcionespago" />
+
+    <EditText
+        android:id="@+id/et_numeroTarjeta"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPostalAddress"
+        android:fontFamily="serif"
+        android:hint="@string/numeroTarjeta"
+        android:textSize="25dp"
+        app:layout_constraintTop_toBottomOf="@id/tv_tarjeta"/>
+
+    <EditText
+        android:id="@+id/et_fechaTarjeta"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPostalAddress"
+        android:fontFamily="serif"
+        android:hint="@string/fechaTarjeta"
+        android:textSize="25dp"
+        app:layout_constraintTop_toBottomOf="@id/et_numeroTarjeta"/>
+
+    <EditText
+        android:id="@+id/et_claveTarjeta"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPostalAddress"
+        android:fontFamily="serif"
+        android:hint="@string/claveTarjeta"
+        android:textSize="25dp"
+        app:layout_constraintTop_toBottomOf="@id/et_fechaTarjeta"/>
+
 
 </androidx.constraintlayout.widget.ConstraintLayout>

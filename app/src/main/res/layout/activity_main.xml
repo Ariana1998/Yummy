@@ -99,6 +99,8 @@
         android:textSize="12sp"
         app:layout_constraintTop_toBottomOf="@+id/btn_login"/>
 
+    //boton de inicio de sesion con google
+
     <ProgressBar
         android:id="@+id/loading"
         android:visibility="gone"
